@@ -1,2 +1,2 @@
 # Elementi-razvoja-softvera
-Kreiranje klase Writer
+Projekat iz predmeta Elementi razvoja softvera
